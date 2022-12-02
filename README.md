@@ -1,8 +1,5 @@
 # IH_FinalProject_Population
 
-## Table of contents
-
-
 
 ## Project Description
 The goal for this project was to implement the diferent various tools that I have learnt during the bootcamp. And with this tools build a complete data pipeline and DB.
